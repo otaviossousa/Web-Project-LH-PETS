@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\otavi\\Downloads\\Atividade 2 - Projeto Web LH-Pets\\Atividade 2 - Projeto Web LH-Pets.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\otavi\\Downloads\\Atividade 2 - Projeto Web LH-Pets\\Atividade 2 - Projeto Web LH-Pets.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\otavi\\Downloads\\Atividade 2 - Projeto Web LH-Pets\\Atividade 2 - Projeto Web LH-Pets.csproj",
+        "projectName": "Atividade 2 - Projeto Web LH-Pets",
+        "projectPath": "C:\\Users\\otavi\\Downloads\\Atividade 2 - Projeto Web LH-Pets\\Atividade 2 - Projeto Web LH-Pets.csproj",
+        "packagesPath": "C:\\Users\\otavi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\otavi\\Downloads\\Atividade 2 - Projeto Web LH-Pets\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\otavi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.120\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

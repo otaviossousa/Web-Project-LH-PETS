@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "eKRydaBOSTdnHKsGAr+EdgJsN5XL/WVCZOFWxpXbWHo=",
+  "Source": "Projeto Web LH Pets",
+  "BasePath": "_content/Projeto Web LH Pets",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Projeto Web LH Pets\\wwwroot",
+      "Source": "Projeto Web LH Pets",
+      "ContentRoot": "C:\\Users\\otavi\\Downloads\\PROJETO WEB LH PETS\\wwwroot\\",
+      "BasePath": "_content/Projeto Web LH Pets",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\otavi\\Downloads\\PROJETO WEB LH PETS\\wwwroot\\index.html",
+      "SourceId": "Projeto Web LH Pets",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\otavi\\Downloads\\PROJETO WEB LH PETS\\wwwroot\\",
+      "BasePath": "_content/Projeto Web LH Pets",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

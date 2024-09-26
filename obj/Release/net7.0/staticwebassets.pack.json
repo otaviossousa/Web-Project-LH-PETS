@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\otavi\\Downloads\\PROJETO WEB LH PETS\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.Projeto Web LH Pets.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.Projeto Web LH Pets.props",
+      "PackagePath": "build\\Projeto Web LH Pets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Projeto Web LH Pets.props",
+      "PackagePath": "buildMultiTargeting\\Projeto Web LH Pets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.Projeto Web LH Pets.props",
+      "PackagePath": "buildTransitive\\Projeto Web LH Pets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

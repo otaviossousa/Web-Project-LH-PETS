@@ -1,0 +1,13 @@
+C:\Users\otavi\Downloads\PROJETO WEB LH PETS\bin\Release\net7.0\publish\Projeto Web LH Pets.exe
+C:\Users\otavi\Downloads\PROJETO WEB LH PETS\bin\Release\net7.0\publish\appsettings.Development.json
+C:\Users\otavi\Downloads\PROJETO WEB LH PETS\bin\Release\net7.0\publish\appsettings.json
+C:\Users\otavi\Downloads\PROJETO WEB LH PETS\bin\Release\net7.0\publish\Projeto Web LH Pets.dll
+C:\Users\otavi\Downloads\PROJETO WEB LH PETS\bin\Release\net7.0\publish\Projeto Web LH Pets.deps.json
+C:\Users\otavi\Downloads\PROJETO WEB LH PETS\bin\Release\net7.0\publish\Projeto Web LH Pets.runtimeconfig.json
+C:\Users\otavi\Downloads\PROJETO WEB LH PETS\bin\Release\net7.0\publish\Projeto Web LH Pets.pdb
+C:\Users\otavi\Downloads\PROJETO WEB LH PETS\bin\Release\net7.0\publish\System.Data.SqlClient.dll
+C:\Users\otavi\Downloads\PROJETO WEB LH PETS\bin\Release\net7.0\publish\runtimes\win-arm64\native\sni.dll
+C:\Users\otavi\Downloads\PROJETO WEB LH PETS\bin\Release\net7.0\publish\runtimes\win-x64\native\sni.dll
+C:\Users\otavi\Downloads\PROJETO WEB LH PETS\bin\Release\net7.0\publish\runtimes\win-x86\native\sni.dll
+C:\Users\otavi\Downloads\PROJETO WEB LH PETS\bin\Release\net7.0\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\otavi\Downloads\PROJETO WEB LH PETS\bin\Release\net7.0\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

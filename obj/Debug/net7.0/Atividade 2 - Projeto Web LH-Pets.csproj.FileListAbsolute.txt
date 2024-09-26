@@ -1,0 +1,6 @@
+C:\Users\otavi\Downloads\Atividade 2 - Projeto Web LH-Pets\obj\Debug\net7.0\Atividade 2 - Projeto Web LH-Pets.csproj.AssemblyReference.cache
+C:\Users\otavi\Downloads\Atividade 2 - Projeto Web LH-Pets\obj\Debug\net7.0\Atividade 2 - Projeto Web LH-Pets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\otavi\Downloads\Atividade 2 - Projeto Web LH-Pets\obj\Debug\net7.0\Atividade 2 - Projeto Web LH-Pets.AssemblyInfoInputs.cache
+C:\Users\otavi\Downloads\Atividade 2 - Projeto Web LH-Pets\obj\Debug\net7.0\Atividade 2 - Projeto Web LH-Pets.AssemblyInfo.cs
+C:\Users\otavi\Downloads\Atividade 2 - Projeto Web LH-Pets\obj\Debug\net7.0\Atividade 2 - Projeto Web LH-Pets.csproj.CoreCompileInputs.cache
+C:\Users\otavi\Downloads\Atividade 2 - Projeto Web LH-Pets\obj\Debug\net7.0\Atividade 2 - Projeto Web LH-Pets.MvcApplicationPartsAssemblyInfo.cache

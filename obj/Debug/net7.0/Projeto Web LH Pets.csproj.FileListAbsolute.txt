@@ -1,0 +1,40 @@
+C:\Users\otavi\Downloads\Atividade 2 - Projeto Web LH-Pets\obj\Debug\net7.0\Projeto Web LH Pets.csproj.AssemblyReference.cache
+C:\Users\otavi\Downloads\Atividade 2 - Projeto Web LH-Pets\obj\Debug\net7.0\Projeto Web LH Pets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\otavi\Downloads\Atividade 2 - Projeto Web LH-Pets\obj\Debug\net7.0\Projeto Web LH Pets.AssemblyInfoInputs.cache
+C:\Users\otavi\Downloads\Atividade 2 - Projeto Web LH-Pets\obj\Debug\net7.0\Projeto Web LH Pets.AssemblyInfo.cs
+C:\Users\otavi\Downloads\Atividade 2 - Projeto Web LH-Pets\obj\Debug\net7.0\Projeto Web LH Pets.csproj.CoreCompileInputs.cache
+C:\Users\otavi\Downloads\Atividade 2 - Projeto Web LH-Pets\obj\Debug\net7.0\Projeto Web LH Pets.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\otavi\Downloads\PROJETO WEB LH PETS\obj\Debug\net7.0\Projeto Web LH Pets.csproj.AssemblyReference.cache
+C:\Users\otavi\Downloads\PROJETO WEB LH PETS\obj\Debug\net7.0\Projeto Web LH Pets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\otavi\Downloads\PROJETO WEB LH PETS\obj\Debug\net7.0\Projeto Web LH Pets.AssemblyInfoInputs.cache
+C:\Users\otavi\Downloads\PROJETO WEB LH PETS\obj\Debug\net7.0\Projeto Web LH Pets.AssemblyInfo.cs
+C:\Users\otavi\Downloads\PROJETO WEB LH PETS\obj\Debug\net7.0\Projeto Web LH Pets.csproj.CoreCompileInputs.cache
+C:\Users\otavi\Downloads\PROJETO WEB LH PETS\obj\Debug\net7.0\Projeto Web LH Pets.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\otavi\Downloads\PROJETO WEB LH PETS\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\otavi\Downloads\PROJETO WEB LH PETS\bin\Debug\net7.0\appsettings.json
+C:\Users\otavi\Downloads\PROJETO WEB LH PETS\bin\Debug\net7.0\Projeto Web LH Pets.staticwebassets.runtime.json
+C:\Users\otavi\Downloads\PROJETO WEB LH PETS\bin\Debug\net7.0\Projeto Web LH Pets.exe
+C:\Users\otavi\Downloads\PROJETO WEB LH PETS\bin\Debug\net7.0\Projeto Web LH Pets.deps.json
+C:\Users\otavi\Downloads\PROJETO WEB LH PETS\bin\Debug\net7.0\Projeto Web LH Pets.runtimeconfig.json
+C:\Users\otavi\Downloads\PROJETO WEB LH PETS\bin\Debug\net7.0\Projeto Web LH Pets.dll
+C:\Users\otavi\Downloads\PROJETO WEB LH PETS\bin\Debug\net7.0\Projeto Web LH Pets.pdb
+C:\Users\otavi\Downloads\PROJETO WEB LH PETS\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\otavi\Downloads\PROJETO WEB LH PETS\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\otavi\Downloads\PROJETO WEB LH PETS\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\otavi\Downloads\PROJETO WEB LH PETS\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\otavi\Downloads\PROJETO WEB LH PETS\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\otavi\Downloads\PROJETO WEB LH PETS\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\otavi\Downloads\PROJETO WEB LH PETS\obj\Debug\net7.0\staticwebassets\msbuild.Projeto Web LH Pets.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\otavi\Downloads\PROJETO WEB LH PETS\obj\Debug\net7.0\staticwebassets\msbuild.build.Projeto Web LH Pets.props
+C:\Users\otavi\Downloads\PROJETO WEB LH PETS\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Projeto Web LH Pets.props
+C:\Users\otavi\Downloads\PROJETO WEB LH PETS\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Projeto Web LH Pets.props
+C:\Users\otavi\Downloads\PROJETO WEB LH PETS\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\otavi\Downloads\PROJETO WEB LH PETS\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\otavi\Downloads\PROJETO WEB LH PETS\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\otavi\Downloads\PROJETO WEB LH PETS\obj\Debug\net7.0\scopedcss\bundle\Projeto Web LH Pets.styles.css
+C:\Users\otavi\Downloads\PROJETO WEB LH PETS\obj\Debug\net7.0\Projeto Web LH Pets.csproj.CopyComplete
+C:\Users\otavi\Downloads\PROJETO WEB LH PETS\obj\Debug\net7.0\Projeto Web LH Pets.dll
+C:\Users\otavi\Downloads\PROJETO WEB LH PETS\obj\Debug\net7.0\refint\Projeto Web LH Pets.dll
+C:\Users\otavi\Downloads\PROJETO WEB LH PETS\obj\Debug\net7.0\Projeto Web LH Pets.pdb
+C:\Users\otavi\Downloads\PROJETO WEB LH PETS\obj\Debug\net7.0\Projeto Web LH Pets.genruntimeconfig.cache
+C:\Users\otavi\Downloads\PROJETO WEB LH PETS\obj\Debug\net7.0\ref\Projeto Web LH Pets.dll
